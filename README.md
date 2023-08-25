@@ -1,8 +1,8 @@
 # Yash Sharma
 
-## Hey there!
-
 <img src="photo.jpg" alt="photo" width="200"/>
+
+## Hey there!
 
 I am Yash Sharma. I am a software engineer at Google and I live in New York.
 
