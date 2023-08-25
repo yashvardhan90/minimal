@@ -1,8 +1,13 @@
 # Yash Sharma
 
-## Hi there! I am Yash.
+## Hey there!
 
-## I am a software engineer at Google. My day to day is focused on improving Search's experimentation infrastructure. I love infrastructure and spend my time on reading about distributed systems.  
+I am Yash Sharma. I am a software engineer at Google and I live in New York.
+
+At Google, I am focussed on building the experimentation framework for Search. Before Google, I worked at Microsoft where I was involved in building a technical debt management platform for Windows. The platform formed an integral part of the Windows ecosystem as it let teams create their own tools that seemlessly integrate with the data processing services.
+I have also worked at Intuit and Samsung.
+
+I am interested in highly scalable distributed systems and AI. 
 
 
 
